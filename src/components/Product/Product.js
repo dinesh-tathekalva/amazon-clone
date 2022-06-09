@@ -24,6 +24,7 @@ function Product({ id, title, image, price, rating }) {
             }
         })
     }
+    
 
     return (
         <div className="product">
